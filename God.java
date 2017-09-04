@@ -8,6 +8,7 @@ public class God
        System.out.println("Creating a person named Ashwini!!!");
        Person Ashwini = new Person("Ashwini");
        Ashwini.SayName();
+       
     }
 }
 
